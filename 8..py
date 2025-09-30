@@ -5,4 +5,4 @@ if x==0:
 elif x>0:
     print("cislo je kladne")
 else:
-    print("cislo je zaporne")
+    print("cislo je zaporne" )

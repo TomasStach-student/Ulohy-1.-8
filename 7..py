@@ -3,7 +3,7 @@ y=int(input("cislo y: "))
 if x==y:
     print ("x je rovne y")
 else:
-    print("vacsie cislo je:")
+    print("vacsie cislo je:" )
 
 if x>y:
     print (x)

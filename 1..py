@@ -7,4 +7,4 @@ if x==0:
 if x>100:
     print("sucin presiahol 100")
 
-else: print("sucin nepresiahol 100")
+else: print("sucin nepresiahol 100" )

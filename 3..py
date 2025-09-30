@@ -4,4 +4,4 @@ x=int(input("tvoje cislo: "))
 
 if x>a and x<b:
     print("patri do intervalu")
-else: print("nepatri do intervalu")
+else: print("nepatri do intervalu" )

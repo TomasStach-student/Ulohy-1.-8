@@ -9,4 +9,4 @@ if z==0 and y!=0:
 if z!=0 and y==0:
     print("cislo je delitelne len 7")
 if z!=0 and y!=0:
-    print("cislo je nie je delitelne ani 4 ani 7")
+    print("cislo je nie je delitelne ani 4 ani 7" )
